@@ -5,11 +5,13 @@ In case the changes in the `.ini` files don't seem to be working, delete the `Sa
 ---
 
 ### Settings Overriden
-* Asset Editor Open Location: `Main Window`;
-* Load Level at Startup: `Last Opened`;
-* Restore Open Asset Tabs On Restart: `Always Restore`;
-* Live Coding: `false`;
-* Hot Reload: `false`.
+* **Asset Editor Open Location**: `Main Window`;
+* **Load Level at Startup**: `Last Opened`;
+* **Restore Open Asset Tabs on Restart**: `Always Restore`;
+* **Live Coding**: `false`;
+* **Hot Reload**: `false`.
+
+Also added `Insert` key as additional input for opening the console.
 
 ---
 Inspired by [Ari Arnbjörnsson](https://github.com/Flassari) from his work in [this repository](https://github.com/Flassari/unreal-user-config)!
