@@ -9,7 +9,8 @@ In case the changes in the `.ini` files don't seem to be working, delete the `Sa
 * **Load Level at Startup**: `Last Opened`;
 * **Restore Open Asset Tabs on Restart**: `Always Restore`;
 * **Live Coding**: `false`;
-* **Hot Reload**: `false`.
+* **Hot Reload**: `false`;
+* **Allow Late Joining**: `true`.
 
 Also added `Insert` key as additional input for opening the console.
 
